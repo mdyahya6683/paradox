@@ -3,6 +3,11 @@ body {
     padding: 0;
    box-sizing: border-box;
    font-family:'poppins', sans-serif;
+     background-image:url(WhatsApp\ Image\ 2024-12-04\ at\ 15.10.37_5fe6fca0.jpg) ;
+   background-repeat: no-repeat;
+   background-size: 100%;
+   background-position: center;
+   
   }
   
 .hero{
